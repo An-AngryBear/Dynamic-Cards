@@ -1,0 +1,27 @@
+html {
+	background: url(cards-image.jpg) no-repeat center center fixed;
+	background-size: cover;
+	background-position-y: -171px
+}
+.entry {
+	margin: 0 auto;
+	height: 60px;
+	width: 400px;
+	text-align: center;
+}
+
+create-button {
+	display: block;
+}
+
+.card {
+	border: 2px solid salmon;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	margin: .3em;
+	padding: 1em;
+	text-align: center;
+	overflow: hidden;
+	background-color: white;
+}
